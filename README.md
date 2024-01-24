@@ -1,4 +1,4 @@
 # git-learn
 First Practice 
 <br>
-Author: Mohan
+Author: Mohan Reddy
